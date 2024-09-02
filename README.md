@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi there! I'm Audy Ruslan, a passionate Software Engineer and Full Stack Developer with a strong focus on building scalable and efficient applications. My expertise spans across Cyber Security, Data Science, and DevOps, enabling me to develop secure, data-driven solutions while ensuring smooth deployment and operations.
 
-<!--
-**audyruslan/audyruslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Core Skills:
 
-Here are some ideas to get you started:
+Frontend: HTML, CSS, JavaScript, React.js, Vue.js
+Backend: Node.js, PHP, Python, Java
+Cyber Security: Penetration Testing, Vulnerability Assessment, Threat Modeling
+Data Science: Machine Learning, Data Analysis, Python, R
+DevOps: CI/CD, Docker, Kubernetes, Jenkins, AWS, Azure
+🚀 What I Do:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Development: Designing and building complete web applications from scratch.
+Cyber Security: Ensuring that applications are secure and compliant with industry standards.
+Data Science: Analyzing data and creating predictive models to solve complex problems.
+DevOps: Streamlining the development process from code to production.
+💼 Projects: Check out my repositories for various projects that showcase my skills in these areas.
+
+📫 Let's Connect: I'm always open to collaborating on exciting projects. Feel free to reach out!
