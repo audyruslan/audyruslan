@@ -1,4 +1,4 @@
-👋 Hi there! I'm **[Your Name]**, a passionate **Software Engineer** and **Full Stack Developer** with a strong focus on building scalable and efficient applications. My expertise spans across **Cyber Security**, **Data Science**, and **DevOps**, enabling me to develop secure, data-driven solutions while ensuring smooth deployment and operations.
+👋 Hi there! I'm **Audy Ruslan**, a passionate **Software Engineer** and **Full Stack Developer** with a strong focus on building scalable and efficient applications. My expertise spans across **Cyber Security**, **Data Science**, and **DevOps**, enabling me to develop secure, data-driven solutions while ensuring smooth deployment and operations.
 
 🔍 **Core Skills:**
 - **Frontend:** HTML, CSS, JavaScript, React.js, Vue.js
