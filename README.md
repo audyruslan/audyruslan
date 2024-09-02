@@ -3,12 +3,13 @@
 🔍 Core Skills:
 
 Frontend: HTML, CSS, JavaScript, React.js, Vue.js
-Backend: Node.js, PHP, Python, Java
+Backend: Node.js, PHP, Python, Java, Kotlin
 Cyber Security: Penetration Testing, Vulnerability Assessment, Threat Modeling
-Data Science: Machine Learning, Data Analysis, Python, R
+Data Science: Machine Learning, Data Analysis, Python
 DevOps: CI/CD, Docker, Kubernetes, Jenkins, AWS, Azure
-🚀 What I Do:
 
+
+🚀 What I Do:
 Full Stack Development: Designing and building complete web applications from scratch.
 Cyber Security: Ensuring that applications are secure and compliant with industry standards.
 Data Science: Analyzing data and creating predictive models to solve complex problems.
